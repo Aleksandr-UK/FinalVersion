@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7058f1c8-031b-458b-a27c-e2611650934f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Amazone.AmazoneReg">
-    <configuration name="Amazone.AmazoneReg" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="UITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Amazone" />
-      <option name="METHOD_NAME" value="AmazoneReg" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Cartie.BuyJewerly">
     <configuration name="Cartie.BuyJewerly" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="UITest" />
       <option name="PACKAGE_NAME" value="" />
@@ -89,24 +75,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rozetka.buyClocks" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="UITest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="rozetka" />
-      <option name="METHOD_NAME" value="buyClocks" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Amazone.AmazoneReg" />
         <item itemvalue="TestNG.RegisterNetflix.RefisterNetfix" />
         <item itemvalue="TestNG.RegisterRozetka.RegisterR" />
-        <item itemvalue="TestNG.rozetka.buyClocks" />
         <item itemvalue="TestNG.Cartie.BuyJewerly" />
       </list>
     </recent_temporary>
@@ -120,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670850718450</updated>
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/Aleksandr-UK/github-actions.git">
+      <created>1674072850513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674072850513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/Aleksandr-UK/github-actions.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Aleksandr-UK/github-actions.git" />
   </component>
 </project>
